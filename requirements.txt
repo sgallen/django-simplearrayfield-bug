@@ -1,0 +1,2 @@
+git+git://github.com/django/django.git@master
+psycopg2==2.6.1
